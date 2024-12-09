@@ -1,0 +1,19 @@
+{
+  "name": "dashboard-terra",
+  "version": "1.0.0",
+  "description": "Interface de dashboard para testes quantitativos para o projeto Terra.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashboard",
+    "data",
+    "science"
+  ],
+  "author": "Wellington Wagner F. Sarmento, Patrícia de Sousa Paula",
+  "license": "GPL-3.0-or-later",
+  "volta": {
+    "node": "22.12.0"
+  }
+}
